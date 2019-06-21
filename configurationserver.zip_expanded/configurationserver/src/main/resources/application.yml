@@ -1,0 +1,14 @@
+server:
+ port: 8888
+ 
+spring:
+ cloud:
+   config:
+     server:
+       git:
+         uri: https://code.cognizant.com/724408/spring-config.git
+         searchPaths: licensingservice,organizationservice,zuulsrvr
+         username: 724408
+         password: qsxdz#269
+         skipSslValidation: true
+ 

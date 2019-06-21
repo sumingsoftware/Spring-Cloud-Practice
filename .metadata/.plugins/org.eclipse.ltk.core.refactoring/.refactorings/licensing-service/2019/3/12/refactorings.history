@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.thoughtmechanix.licenses.resourses&apos; to &apos;licensing-service/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;licensing-service&apos;&#x0D;&#x0A;- Destination element: &apos;licensing-service/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;licensing-service/src/main/java/com.thoughtmechanix.licenses.resourses&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="/src\/main\/resources" element1="/src\/main\/java&lt;com.thoughtmechanix.licenses.resourses" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1553234867876" version="1.0"/>
+</session>

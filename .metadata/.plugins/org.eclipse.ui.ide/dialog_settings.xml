@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\724408\Downloads\authentication-service2.zip"/>
+		<item value="C:\Users\724408\Downloads\authentication-service.zip"/>
+		<item value="C:\Users\724408\spring-cloud\config"/>
+		<item value="C:\Users\724408\Downloads\zuulsvr.zip"/>
+		<item value="C:\Users\724408\Downloads\organizationservice.zip"/>
+		<item value="C:\Users\724408\Downloads\eurekasvr.zip"/>
+		<item value="C:\Users\724408\Downloads\hello"/>
+	</list>
+</section>

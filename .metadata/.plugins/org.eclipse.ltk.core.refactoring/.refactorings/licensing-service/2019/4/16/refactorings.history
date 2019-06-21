@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.thoughtmechanix.licenses.utils&apos; to &apos;organizationservice/src/main/java/com.thoughtmechanix.organizationservice&apos;&#x0D;&#x0A;- Original project: &apos;licensing-service&apos;&#x0D;&#x0A;- Destination element: &apos;organizationservice/src/main/java/com.thoughtmechanix.organizationservice&apos;&#x0D;&#x0A;- Original element: &apos;licensing-service/src/main/java/com.thoughtmechanix.licenses.utils&apos;" description="Copy package" destination="=organizationservice/src\/main\/java&lt;com.thoughtmechanix.organizationservice" element1="/src\/main\/java&lt;com.thoughtmechanix.licenses.utils" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1555400605730" version="1.0"/>
+</session>
